@@ -29,6 +29,7 @@
 		E30272EA22AE048500D99BA0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E30272F222AE049A00D99BA0 /* NSString+STRegex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+STRegex.h"; sourceTree = "<group>"; };
 		E30272F322AE049A00D99BA0 /* NSString+STRegex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+STRegex.m"; sourceTree = "<group>"; };
+		E3E8126522AE0627000CA39A /* JLLExtension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JLLExtension.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +81,7 @@
 			children = (
 				E30272F222AE049A00D99BA0 /* NSString+STRegex.h */,
 				E30272F322AE049A00D99BA0 /* NSString+STRegex.m */,
+				E3E8126522AE0627000CA39A /* JLLExtension.h */,
 			);
 			name = Classes;
 			path = ../Classes;
